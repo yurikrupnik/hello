@@ -1,0 +1,6 @@
+version: 1
+type: go
+resolver:
+  repo: rust-playground-go
+  serverId: rt-server
+  version: 0.0.1
